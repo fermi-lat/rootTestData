@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: burnett  Thu Sep  9 10:34:39 PDT 2004
+rootTestData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+remove from  include path-- tag v0r0p1
+    *
+------------------------------------------------------------
+User: burnett  Thu Sep  9 10:34:39 PDT 2004
 rootTestData/cmt
 
 Modified Files:
