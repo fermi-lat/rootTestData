@@ -1,4 +1,17 @@
 ------------------------------------------------------------
+User: lsrea  Mon Feb  7 12:40:47 PST 2005
+rootTestData/data/default
+
+Modified Files:
+	digi.root mc.root recon.root 
+Added Files:
+	merit.root 
+Log Message:
+new TkrCluster... could have prob. done with old mc and digi
+added merit output to "default" folder
+
+    *
+------------------------------------------------------------
 User: lsrea  Mon Feb  7 12:40:46 PST 2005
 rootTestData/cmt
 
