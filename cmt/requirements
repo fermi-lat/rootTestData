@@ -1,8 +1,9 @@
 package rootTestData
-version v0
-# $Id$
+version v0r0p1
+# $Id: requirements,v 1.1.1.1 2004/07/13 22:17:15 heather Exp $
 
 branches data
+include_path none
 
 # Dummy requirements file
 # This package is a central repository for test data in ROOT files.
