@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: lsrea  Mon Feb  7 12:40:47 PST 2005
+rootTestData/data/vertical_surface_muons
+
+Modified Files:
+	digi.root mc.root merit.root recon.root 
+Log Message:
+new TkrCluster... could have prob. done with old mc and digi
+added merit output to "default" folder
+
+    *
+------------------------------------------------------------
+User: lsrea  Mon Feb  7 12:40:47 PST 2005
 rootTestData/data/default
 
 Modified Files:
