@@ -1,4 +1,28 @@
 ------------------------------------------------------------
+TAG
+Tag name: v2r1, operation: add
+Package: rootTestData
+User: lsrea  Tue Jan 25 12:32:41 2005
+Files:
+  rootTestData/.cvsignore  1.1.1.1
+  rootTestData/ChangeLog  1.20
+  rootTestData/cmt/.cvsignore  1.1.1.1
+  rootTestData/cmt/requirements  1.5
+  rootTestData/data/default/mc.root  1.4
+  rootTestData/data/default/jobOptions.txt  1.1
+  rootTestData/data/default/digi.root  1.4
+  rootTestData/data/default/recon.root  1.4
+  rootTestData/data/vertical_surface_muons/mc.root  1.2
+  rootTestData/data/vertical_surface_muons/jobOptions.txt  1.2
+  rootTestData/data/vertical_surface_muons/digi.root  1.2
+  rootTestData/data/vertical_surface_muons/merit.root  1.2
+  rootTestData/data/vertical_surface_muons/recon.root  1.2
+  rootTestData/data/vertical_surface_muons/readme.txt  1.1
+  rootTestData/doc/release.notes  1.6
+  rootTestData/src/mainpage.h  1.1.1.1
+
+    *
+------------------------------------------------------------
 User: lsrea  Tue Jan 25 12:32:29 PST 2005
 rootTestData/doc
 
