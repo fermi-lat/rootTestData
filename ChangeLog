@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: lsrea  Tue Jan 25 12:07:23 PST 2005
+rootTestData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+prepare for tag v2r1: redo files for latest format, proper jobOptions to generate both datasets
+
+    *
+------------------------------------------------------------
+User: lsrea  Tue Jan 25 12:07:23 PST 2005
 rootTestData/data/vertical_surface_muons
 
 Modified Files:
