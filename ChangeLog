@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 User: lsrea  Tue Jan 25 12:07:23 PST 2005
+rootTestData/data/default
+
+Modified Files:
+	digi.root mc.root recon.root 
+Added Files:
+	jobOptions.txt 
+Log Message:
+prepare for tag v2r1: redo files for latest format, proper jobOptions to generate both datasets
+
+    *
+------------------------------------------------------------
+User: lsrea  Tue Jan 25 12:07:23 PST 2005
 rootTestData/cmt
 
 Modified Files:
