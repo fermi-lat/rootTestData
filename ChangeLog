@@ -1,4 +1,21 @@
 ------------------------------------------------------------
+TAG
+Tag name: v1, operation: add
+Package: rootTestData
+User: heather  Thu Dec  2 09:52:00 2004
+Files:
+  rootTestData/.cvsignore  1.1.1.1
+  rootTestData/ChangeLog  1.8
+  rootTestData/cmt/.cvsignore  1.1.1.1
+  rootTestData/cmt/requirements  1.3
+  rootTestData/data/default/mc.root  1.2
+  rootTestData/data/default/digi.root  1.2
+  rootTestData/data/default/recon.root  1.2
+  rootTestData/doc/release.notes  1.3
+  rootTestData/src/mainpage.h  1.1.1.1
+
+    *
+------------------------------------------------------------
 User: heather  Thu Dec  2 09:51:40 PST 2004
 rootTestData/doc
 
