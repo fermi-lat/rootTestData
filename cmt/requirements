@@ -1,6 +1,6 @@
 package rootTestData
-version v2r2
-# $Id: requirements,v 1.5 2005/01/25 20:07:23 lsrea Exp $
+version v2r3
+# $Id: requirements,v 1.6 2005/02/07 20:40:46 lsrea Exp $
 
 branches data
 include_path none
