@@ -1,6 +1,6 @@
 package rootTestData
-version v0r0p1
-# $Id: requirements,v 1.1.1.1 2004/07/13 22:17:15 heather Exp $
+version v1
+# $Id: requirements,v 1.2 2004/09/09 17:34:39 burnett Exp $
 
 branches data
 include_path none
