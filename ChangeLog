@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: lsrea  Thu Feb 10 21:21:20 PST 2005
+rootTestData/data/vertical_surface_muons
+
+Modified Files:
+	digi.root jobOptions.txt mc.root merit.root recon.root 
+Added Files:
+	redoDigi.txt redoRecon.txt 
+Log Message:
+Ready to tag v2r3
+    *
+------------------------------------------------------------
 User: lsrea  Thu Feb 10 21:21:19 PST 2005
 rootTestData/data/default
 
