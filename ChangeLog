@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Apr 13 16:27:44 PDT 2005
+rootTestData/data/vertical_surface_muons
+
+Modified Files:
+	digi.root mc.root merit.root recon.root 
+Log Message:
+updated for new commonRootData with namespace
+    *
+------------------------------------------------------------
 User: heather  Wed Apr 13 16:27:38 PDT 2005
 rootTestData/data/default
 
