@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: chamont  Thu Apr 14 06:42:51 PDT 2005
+rootTestData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+add data/gamma_5_gev_normal
+    *
+------------------------------------------------------------
+User: chamont  Thu Apr 14 06:42:51 PDT 2005
 rootTestData/data/gamma_5_gev_normal
 
 Added Files:
