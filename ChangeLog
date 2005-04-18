@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sun Apr 17 23:34:04 PDT 2005
+rootTestData/data/default
+
+Modified Files:
+	digi.root mc.root merit.root recon.root 
+Log Message:
+back out commonRootData namespace
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r1, operation: add
 Package: rootTestData
