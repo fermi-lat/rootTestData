@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Apr 18 10:44:02 PDT 2005
+rootTestData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+back out commonRootData namespace
+    *
+------------------------------------------------------------
 User: heather  Mon Apr 18 09:38:29 PDT 2005
 rootTestData/data/gamma_5_gev_normal
 
