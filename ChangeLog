@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Apr 18 09:38:29 PDT 2005
+rootTestData/data/gamma_5_gev_normal
+
+Modified Files:
+	digi.root recon.root 
+Log Message:
+updated ROOT files after backing out commonRootData
+    *
+------------------------------------------------------------
 User: heather  Sun Apr 17 23:34:19 PDT 2005
 rootTestData/data/vertical_surface_muons
 
