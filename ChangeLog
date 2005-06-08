@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Wed Jun  8 09:06:48 PDT 2005
+rootTestData/data/gamma_5_gev_normal
+
+Modified Files:
+	digi.root recon.root 
+Log Message:
+new persistent CalCluster
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r2, operation: add
 Package: rootTestData
