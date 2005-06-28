@@ -1,6 +1,7 @@
 package rootTestData
-version v2r3
-# $Id: requirements,v 1.6 2005/02/07 20:40:46 lsrea Exp $
+version v2r3p1
+author Heather Kelly <heather@milkyway.gsfc.nasa.gov>
+# $Id: requirements,v 1.7 2005/02/11 05:21:19 lsrea Exp $
 
 branches data
 include_path none
