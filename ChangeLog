@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: bruel  Wed Jun 29 04:43:38 PDT 2005
+rootTestData/data/gamma_5_gev_normal
+
+Modified Files:
+	digi.root recon.root 
+Log Message:
+uptodate data files
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r2p1, operation: add
 Package: rootTestData
