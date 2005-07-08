@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Fri Jul  8 06:17:18 PDT 2005
+rootTestData/data/gamma_5_gev_normal
+
+Modified Files:
+	digi.root recon.root 
+Log Message:
+upgrade files with the new persistency of CalEventEnergy
+    *
+------------------------------------------------------------
 User: bruel  Wed Jun 29 04:43:38 PDT 2005
 rootTestData/data/gamma_5_gev_normal
 
