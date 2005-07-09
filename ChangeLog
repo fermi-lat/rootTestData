@@ -1,4 +1,40 @@
 ------------------------------------------------------------
+TAG
+Tag name: v3r3, operation: add
+Package: rootTestData
+User: heather  Fri Jul  8 23:51:19 2005
+Files:
+  rootTestData/.cvsignore  1.1.1.1
+  rootTestData/ChangeLog  1.58
+  rootTestData/cmt/.cvsignore  1.1.1.1
+  rootTestData/cmt/requirements  1.9
+  rootTestData/data/default/redoRecon.txt  1.1
+  rootTestData/data/default/redoDigi.txt  1.1
+  rootTestData/data/default/mc.root  1.8
+  rootTestData/data/default/jobOptions.txt  1.2
+  rootTestData/data/default/digi.root  1.8
+  rootTestData/data/default/merit.root  1.4
+  rootTestData/data/default/recon.root  1.8
+  rootTestData/data/gamma_5_gev_normal/source_library.xml  1.1
+  rootTestData/data/gamma_5_gev_normal/.cvsignore  1.1
+  rootTestData/data/gamma_5_gev_normal/job.py  1.1
+  rootTestData/data/gamma_5_gev_normal/jobOptions.txt  1.1
+  rootTestData/data/gamma_5_gev_normal/digi.root  1.7
+  rootTestData/data/gamma_5_gev_normal/common.txt  1.2
+  rootTestData/data/gamma_5_gev_normal/recon.root  1.7
+  rootTestData/data/vertical_surface_muons/digi.root  1.7
+  rootTestData/data/vertical_surface_muons/redoRecon.txt  1.1
+  rootTestData/data/vertical_surface_muons/mc.root  1.7
+  rootTestData/data/vertical_surface_muons/redoDigi.txt  1.1
+  rootTestData/data/vertical_surface_muons/jobOptions.txt  1.3
+  rootTestData/data/vertical_surface_muons/merit.root  1.7
+  rootTestData/data/vertical_surface_muons/recon.root  1.7
+  rootTestData/data/vertical_surface_muons/readme.txt  1.1
+  rootTestData/doc/release.notes  1.13
+  rootTestData/src/mainpage.h  1.1.1.1
+
+    *
+------------------------------------------------------------
 User: heather  Fri Jul  8 23:51:03 PDT 2005
 rootTestData/doc
 
