@@ -1,7 +1,7 @@
 package rootTestData
-version v3r3
+version v3r3p1
 author Heather Kelly <heather@milkyway.gsfc.nasa.gov>
-# $Id: requirements,v 1.8 2005/06/28 05:11:07 heather Exp $
+# $Id: requirements,v 1.9 2005/07/09 06:50:44 heather Exp $
 
 branches data
 include_path none
