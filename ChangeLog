@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Mon Jul 11 01:41:58 PDT 2005
+rootTestData/data/default
+
+Modified Files:
+	digi.root mc.root merit.root recon.root 
+Log Message:
+oups... I forgot to update the default data set
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r3, operation: add
 Package: rootTestData
