@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Wed Jul 13 08:43:40 PDT 2005
+rootTestData/data/default
+
+Modified Files:
+	digi.root mc.root merit.root recon.root 
+Log Message:
+upgrade for new TDS Event/CalRecon/* usage of const and status bits, plus few details
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r3p1, operation: add
 Package: rootTestData
