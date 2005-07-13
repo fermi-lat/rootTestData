@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: chamont  Wed Jul 13 08:43:40 PDT 2005
+rootTestData/data/gamma_5_gev_normal
+
+Modified Files:
+	digi.root recon.root 
+Log Message:
+upgrade for new TDS Event/CalRecon/* usage of const and status bits, plus few details
+    *
+------------------------------------------------------------
+User: chamont  Wed Jul 13 08:43:40 PDT 2005
 rootTestData/data/default
 
 Modified Files:
