@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Fri Nov 25 08:37:47 PST 2005
+rootTestData/data/gamma_5_gev_normal
+
+Modified Files:
+	digi.root recon.root 
+Log Message:
+new gamma data files for the first new Event/CalRecon after DC2 (v11r9)
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r4, operation: add
 Package: rootTestData
