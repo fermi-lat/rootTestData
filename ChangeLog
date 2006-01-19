@@ -1,20 +1,4 @@
 ------------------------------------------------------------
-User: chamont  Wed Jan 18 20:06:42 PST 2006
-rootTestData/data/gamma_5_gev_normal
-
-Modified Files:
-	digi.root recon.root 
-Log Message:
-    *
-------------------------------------------------------------
-User: chamont  Wed Jan 18 20:06:42 PST 2006
-rootTestData/data/default
-
-Modified Files:
-	digi.root jobOptions.txt mc.root merit.root recon.root 
-Log Message:
-    *
-------------------------------------------------------------
 TAG
 Tag name: v3r5, operation: add
 Package: rootTestData
