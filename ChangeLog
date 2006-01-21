@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Fri Jan 20 22:36:56 PST 2006
+rootTestData/data/default
+
+Modified Files:
+	digi.root mc.root merit.root recon.root 
+Log Message:
+upgrade data/default
+    *
+------------------------------------------------------------
 User: chamont  Thu Jan 19 09:31:32 PST 2006
 rootTestData/cmt
 
