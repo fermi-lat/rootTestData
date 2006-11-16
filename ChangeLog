@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Thu Nov 16 09:30:57 PST 2006
+rootTestData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+remove CalUtil from Gaudi DLL to load
+    *
+------------------------------------------------------------
 User: chamont  Thu Nov 16 09:29:41 PST 2006
 rootTestData/data/gamma_5_gev_normal
 
