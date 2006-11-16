@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Thu Nov 16 09:29:41 PST 2006
+rootTestData/data/gamma_5_gev_normal
+
+Modified Files:
+	common.txt 
+Log Message:
+remove CalUtil from Gaudi DLL to load
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r6p2, operation: add
 Package: rootTestData
