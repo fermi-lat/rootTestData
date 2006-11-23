@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Thu Nov 23 06:28:10 PST 2006
+rootTestData/data/gamma_5_gev_normal
+
+Removed Files:
+	digi.root recon.root 
+Log Message:
+the use of those files by CalRecon tests generate a bad cyclic dependancy, that is why I prefer to move back the files to CalRecon
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r6p3, operation: add
 Package: rootTestData
