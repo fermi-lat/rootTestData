@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: lsrea  Thu Dec  7 11:20:32 PST 2006
+rootTestData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+now both default and vertical muon files have been updated
+
+    *
+------------------------------------------------------------
+User: lsrea  Thu Dec  7 11:20:32 PST 2006
 rootTestData/data/default
 
 Modified Files:
