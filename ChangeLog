@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Thu Dec  7 11:20:32 PST 2006
+rootTestData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+now both default and vertical muon files have been updated
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r6p5, operation: add
 Package: rootTestData
