@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Thu Dec  7 11:11:29 PST 2006
+rootTestData/data/vertical_surface_muons
+
+Modified Files:
+	digi.root mc.root merit.root recon.root 
+Log Message:
+new version of the default root files
+
+    *
+------------------------------------------------------------
 User: lsrea  Thu Dec  7 11:11:28 PST 2006
 rootTestData/cmt
 
