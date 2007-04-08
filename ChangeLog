@@ -1,4 +1,17 @@
 ------------------------------------------------------------
+User: lsrea  Sun Apr  8 11:37:48 PDT 2007
+rootTestData/data/default
+
+Modified Files:
+	digi.root jobOptions.txt mc.root merit.root recon.root 
+Added Files:
+	relations.root 
+Log Message:
+Prepare for tag v3r7
+new relations.root files
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r6p6, operation: add
 Package: rootTestData
