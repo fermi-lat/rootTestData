@@ -1,10 +1,10 @@
 package rootTestData
-version v3r7
+version v3r7p1
 
 author Heather Kelly <heather@milkyway.gsfc.nasa.gov>
 author David Chamont <chamont@poly.in2p3.fr>
 
-# $Id: requirements,v 1.15 2006/12/07 19:20:32 lsrea Exp $
+# $Id: requirements,v 1.16 2007/04/08 18:38:23 lsrea Exp $
 
 branches data
 
