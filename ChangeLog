@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Mon Nov 12 12:43:04 PST 2007
+rootTestData/data/vertical_surface_muons
+
+Modified Files:
+	digi.root jobOptions.txt merit.root recon.root redoDigi.txt 
+	redoRecon.txt 
+Log Message:
+updated test ROOT files
+    *
+------------------------------------------------------------
 User: heather  Mon Nov 12 12:43:03 PST 2007
 rootTestData/data/gamma_5_gev_normal
 
