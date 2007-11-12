@@ -2,7 +2,7 @@
 //
 // Job options file for Gleam job to run muon_pencil_angle source for 5 events and store in rootTestData
 
-//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/data/default/jobOptions.txt,v 1.3 2006/01/19 04:06:39 chamont Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/data/default/jobOptions.txt,v 1.4 2007/04/08 18:37:48 lsrea Exp $
 
 // start with the basic program defined in Gleam
 #include "$GLEAMROOT/src/basicOptions.txt"
@@ -15,7 +15,7 @@ FluxSvc.source_lib += {"$(G4GENERATORROOT)/src/test/test_sources.xml"};
 FluxAlg.source_name="muon_pencil_angle";
 
 // set root output from merit with following
-MeritAlg.EventTreeName="MeritTuple";
+AnalysisNtupleAlg.tupleName = "MeritTuple";
 //MeritAlg.PointingTreeName="Exposure";
 
 mcRootWriterAlg.mcRootFile       = "$ROOTTESTDATAROOT/data/default/mc.root";
@@ -25,7 +25,9 @@ reconRootWriterAlg.reconRootFile = "$ROOTTESTDATAROOT/data/default/recon.root";
 RootTupleSvc.filename            = "$ROOTTESTDATAROOT/data/default/merit.root";
 RootTupleSvc.rejectIfBad = false;
 
+
 TriggerAlg.mask = 0; // accept events even if they don't trigger
+TriggerAlg.applyPrescales=false;
 
 // Set output level threshold (2=DEBUG, 3=INFO, 4=WARNING, 5=ERROR, 6=FATAL )
 CalClustersAlg.OutputLevel=4; // too much info
