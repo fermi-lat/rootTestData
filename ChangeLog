@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: lsrea  Wed Jan  2 19:01:57 PST 2008
+rootTestData/data/default
+
+Modified Files:
+	digi.root jobOptions.txt mc.root merit.root recon.root 
+	relations.root 
+Log Message:
+Freshen root files... relations.root didn't match the rest
+
+    *
+------------------------------------------------------------
+User: lsrea  Wed Jan  2 19:01:57 PST 2008
 rootTestData/cmt
 
 Modified Files:
