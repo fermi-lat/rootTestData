@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Wed Jan  2 19:01:58 PST 2008
+rootTestData/data/vertical_surface_muons
+
+Modified Files:
+	digi.root mc.root merit.root recon.root relations.root 
+Log Message:
+Freshen root files... relations.root didn't match the rest
+
+    *
+------------------------------------------------------------
 User: lsrea  Wed Jan  2 19:01:57 PST 2008
 rootTestData/data/default
 
