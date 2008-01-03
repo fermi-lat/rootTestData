@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Wed Jan  2 19:01:57 PST 2008
+rootTestData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Freshen root files... relations.root didn't match the rest
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r8, operation: add
 Package: rootTestData
