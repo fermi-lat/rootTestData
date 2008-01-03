@@ -1,4 +1,42 @@
 ------------------------------------------------------------
+TAG
+Tag name: v3r8p1, operation: add
+Package: rootTestData
+User: lsrea  Wed Jan  2 19:02:44 2008
+Files:
+  rootTestData/.cvsignore  1.1.1.1
+  rootTestData/ChangeLog  1.128
+  rootTestData/cmt/.cvsignore  1.1.1.1
+  rootTestData/cmt/requirements  1.20
+  rootTestData/data/default/redoRecon.txt  1.2
+  rootTestData/data/default/.cvsignore  1.1
+  rootTestData/data/default/redoDigi.txt  1.2
+  rootTestData/data/default/mc.root  1.16
+  rootTestData/data/default/jobOptions.txt  1.6
+  rootTestData/data/default/relations.root  1.3
+  rootTestData/data/default/digi.root  1.17
+  rootTestData/data/default/merit.root  1.14
+  rootTestData/data/default/recon.root  1.18
+  rootTestData/data/gamma_5_gev_normal/source_library.xml  1.1
+  rootTestData/data/gamma_5_gev_normal/.cvsignore  1.1
+  rootTestData/data/gamma_5_gev_normal/job.py  1.1
+  rootTestData/data/gamma_5_gev_normal/jobOptions.txt  1.3
+  rootTestData/data/gamma_5_gev_normal/common.txt  1.4
+  rootTestData/data/vertical_surface_muons/redoRecon.txt  1.2
+  rootTestData/data/vertical_surface_muons/.cvsignore  1.1
+  rootTestData/data/vertical_surface_muons/redoDigi.txt  1.2
+  rootTestData/data/vertical_surface_muons/mc.root  1.13
+  rootTestData/data/vertical_surface_muons/jobOptions.txt  1.6
+  rootTestData/data/vertical_surface_muons/relations.root  1.3
+  rootTestData/data/vertical_surface_muons/digi.root  1.14
+  rootTestData/data/vertical_surface_muons/merit.root  1.15
+  rootTestData/data/vertical_surface_muons/recon.root  1.15
+  rootTestData/data/vertical_surface_muons/readme.txt  1.1
+  rootTestData/doc/release.notes  1.28
+  rootTestData/src/mainpage.h  1.1.1.1
+
+    *
+------------------------------------------------------------
 User: lsrea  Wed Jan  2 19:02:37 PST 2008
 rootTestData/doc
 
