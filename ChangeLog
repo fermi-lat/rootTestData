@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Wed Jan 16 15:58:48 PST 2008
+rootTestData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+default/merit.root was corrupted; new files go with GRv13r9
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r8p1, operation: add
 Package: rootTestData
