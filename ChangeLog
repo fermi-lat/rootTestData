@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: lsrea  Wed Jan 16 15:58:48 PST 2008
+rootTestData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+default/merit.root was corrupted; new files go with GRv13r9
+
+    *
+------------------------------------------------------------
+User: lsrea  Wed Jan 16 15:58:48 PST 2008
 rootTestData/data/default
 
 Modified Files:
