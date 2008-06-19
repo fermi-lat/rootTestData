@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Jun 18 21:43:20 PDT 2008
+rootTestData/data/default
+
+Modified Files:
+	digi.root mc.root merit.root recon.root relations.root 
+Log Message:
+remade all ROOT files for new filter bits
+    *
+------------------------------------------------------------
 User: heather  Wed Jun 18 21:43:19 PDT 2008
 rootTestData/cmt
 
