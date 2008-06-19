@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Jun 18 21:43:19 PDT 2008
+rootTestData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+remade all ROOT files for new filter bits
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r8p2, operation: add
 Package: rootTestData
