@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: glastrm  Mon Jul 21 08:17:39 PDT 2008
+GlastRelease-scons/rootTestData/data/default
+
+Modified Files:
+	jobOptions.txt redoDigi.txt redoRecon.txt 
+Log Message:
+Removed dependency on CMT env variables
+    *
+------------------------------------------------------------
 TAG
 Tag name: rootTestData-04-00-00, operation: add
 Package: rootTestData
