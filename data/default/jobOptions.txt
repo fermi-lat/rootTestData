@@ -2,7 +2,7 @@
 //
 // Job options file for Gleam job to run muon_pencil_angle source for 5 events and store in rootTestData
 
-//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/data/default/jobOptions.txt,v 1.5 2007/11/12 20:43:03 heather Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/rootTestData/data/default/jobOptions.txt,v 1.6 2008/01/03 03:01:57 lsrea Exp $
 
 // start with the basic program defined in Gleam
 #include "$GLEAMROOT/src/basicOptions.txt"
@@ -18,11 +18,11 @@ FluxAlg.source_name="muon_pencil_angle";
 AnalysisNtupleAlg.tupleName = "MeritTuple";
 //MeritAlg.PointingTreeName="Exposure";
 
-mcRootWriterAlg.mcRootFile       = "$ROOTTESTDATAROOT/data/default/mc.root";
-relationRootWriterAlg.rootFile   = "$ROOTTESTDATAROOT/data/default/relations.root";
-digiRootWriterAlg.digiRootFile   = "$ROOTTESTDATAROOT/data/default/digi.root";
-reconRootWriterAlg.reconRootFile = "$ROOTTESTDATAROOT/data/default/recon.root";
-RootTupleSvc.filename            = "$ROOTTESTDATAROOT/data/default/merit.root";
+mcRootWriterAlg.mcRootFile       = "$ROOTTESTDATADATAPATH/default/mc.root";
+relationRootWriterAlg.rootFile   = "$ROOTTESTDATADATAPATH/default/relations.root";
+digiRootWriterAlg.digiRootFile   = "$ROOTTESTDATADATAPATH/default/digi.root";
+reconRootWriterAlg.reconRootFile = "$ROOTTESTDATADATAPATH/default/recon.root";
+RootTupleSvc.filename            = "$ROOTTESTDATADATAPATH/default/merit.root";
 RootTupleSvc.rejectIfBad = false;
 
 
