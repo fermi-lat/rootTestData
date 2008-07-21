@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: glastrm  Mon Jul 21 08:17:39 PDT 2008
+GlastRelease-scons/rootTestData/data/vertical_surface_muons
+
+Modified Files:
+	jobOptions.txt redoDigi.txt redoRecon.txt 
+Log Message:
+Removed dependency on CMT env variables
+    *
+------------------------------------------------------------
+User: glastrm  Mon Jul 21 08:17:39 PDT 2008
 GlastRelease-scons/rootTestData/data/gamma_5_gev_normal
 
 Modified Files:
