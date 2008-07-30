@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Jul 29 21:01:48 PDT 2008
+rootTestData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+tagging CMT env var removal
+    *
+------------------------------------------------------------
 User: glastrm  Mon Jul 21 08:17:39 PDT 2008
 GlastRelease-scons/rootTestData/data/vertical_surface_muons
 
