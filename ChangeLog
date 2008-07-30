@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Tue Jul 29 21:01:48 PDT 2008
+rootTestData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+tagging CMT env var removal
+    *
+------------------------------------------------------------
+User: heather  Tue Jul 29 21:01:48 PDT 2008
 rootTestData/cmt
 
 Modified Files:
