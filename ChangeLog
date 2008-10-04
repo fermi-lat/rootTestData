@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: lsrea  Sat Oct  4 07:35:24 PDT 2008
+rootTestData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Fix jO for gamma_5_gev_normal and add the associated root files
+Remake all files (FRED was complaining about the relations)
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: rootTestData-04-01-00, operation: add
 Package: rootTestData
