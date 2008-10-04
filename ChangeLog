@@ -1,5 +1,18 @@
 ------------------------------------------------------------
 User: lsrea  Sat Oct  4 07:35:24 PDT 2008
+rootTestData/data/gamma_5_gev_normal
+
+Modified Files:
+	jobOptions.txt 
+Added Files:
+	digi.root mc.root merit.root recon.root relations.root 
+Log Message:
+Fix jO for gamma_5_gev_normal and add the associated root files
+Remake all files (FRED was complaining about the relations)
+
+    *
+------------------------------------------------------------
+User: lsrea  Sat Oct  4 07:35:24 PDT 2008
 rootTestData/data/default
 
 Modified Files:
