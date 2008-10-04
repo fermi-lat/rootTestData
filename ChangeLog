@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: lsrea  Sat Oct  4 07:35:25 PDT 2008
+rootTestData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+Fix jO for gamma_5_gev_normal and add the associated root files
+Remake all files (FRED was complaining about the relations)
+
+    *
+------------------------------------------------------------
+User: lsrea  Sat Oct  4 07:35:25 PDT 2008
 rootTestData/data/vertical_surface_muons
 
 Modified Files:
