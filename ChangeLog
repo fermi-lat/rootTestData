@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: ecephas  Mon Dec  8 14:23:19 PST 2008
+GlastRelease-scons/rootTestData
+
+Added Files:
+	SConscript 
+Log Message:
+check in rootTestData/SConscript for rootTestData v4r2 (branch tag, GlastReleasev15r49)
+    *
+------------------------------------------------------------
 TAG
 Tag name: rootTestData-04-02-00, operation: add
 Package: rootTestData
