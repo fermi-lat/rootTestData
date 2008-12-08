@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+TAG
+Tag name: v4r2, operation: add
+Package: rootTestData
+User: ecephas  Mon Dec  8 14:24:03 2008
+Files:
+  rootTestData/SConscript  1.1
+
+    *
+------------------------------------------------------------
 User: ecephas  Mon Dec  8 14:23:19 PST 2008
 GlastRelease-scons/rootTestData
 
