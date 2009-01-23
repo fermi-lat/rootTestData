@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+TAG
+Tag name: rootTestData-04-02-00, operation: mov
+Package: rootTestData
+User: glastrm  Thu Jan 22 16:31:59 2009
+Files:
+  rootTestData/SConscript  1.2
+  rootTestData/SConscript  1.2
+  rootTestData/SConscript  1.2
+
+    *
+------------------------------------------------------------
 User: ecephas  Thu Jan 22 16:07:52 PST 2009
 GlastRelease-scons/rootTestData
 
