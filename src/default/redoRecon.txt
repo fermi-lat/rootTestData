@@ -3,7 +3,7 @@
 // Job options file for Gleam job to run muon_pencil_angle source for 5 events and store in rootTestData
 //    This version starts from the Digi output
 
-//$Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/rootTestData/data/default/redoRecon.txt,v 1.2 2007/11/12 20:43:03 heather Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/data/default/redoRecon.txt,v 1.3 2008/07/21 15:17:39 glastrm Exp $
 
 // start with the basic program defined in Gleam
 #include "$GLEAMROOT/src/basicOptions.txt"

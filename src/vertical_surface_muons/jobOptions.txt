@@ -2,7 +2,7 @@
 //
 // Job options file for Gleam job to run surface muons source for 10 events and store in rootTestData
 
-//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/data/gamma_5_gev_normal/jobOptions.txt,v 1.4 2008/07/21 15:17:39 glastrm Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/data/vertical_surface_muons/jobOptions.txt,v 1.7 2008/07/21 15:17:39 glastrm Exp $
 
 // start with the basic program defined in Gleam
 #include "$GLEAMROOT/src/basicOptions.txt"
@@ -11,8 +11,7 @@
 //#include "$GLEAMROOT/src/guiOptions.txt"
 //#include "$GLEAMROOT/src/fredOptions.txt"
 
-FluxSvc.source_lib += { "$(ROOTTESTDATADATAPATH)/gamma_5_gev_normal/source_library.xml" } ;
-FluxAlg.source_name = "gamma_5_gev_normal" ;
+FluxAlg.source_name="vertical_surface_muons";
 
 //// set root output from merit with following
 AnalysisNtupleAlg.tupleName = "MeritTuple";
@@ -20,13 +19,13 @@ AnalysisNtupleAlg.tupleName = "MeritTuple";
 //MeritAlg.PointingTreeName="Exposure";
 
 TriggerAlg.mask = 0; // accept events even if they don't trigger
-TriggerAlg.applyPrescales=false;
+TriggerAlg.applyPrescales=false; 
 
-mcRootWriterAlg.mcRootFile       = "$ROOTTESTDATADATAPATH/gamma_5_gev_normal/mc.root";
-relationRootWriterAlg.rootFile   = "$ROOTTESTDATADATAPATH/gamma_5_gev_normal/relations.root";
-digiRootWriterAlg.digiRootFile   = "$ROOTTESTDATADATAPATH/gamma_5_gev_normal/digi.root";
-reconRootWriterAlg.reconRootFile = "$ROOTTESTDATADATAPATH/gamma_5_gev_normal/recon.root";
-RootTupleSvc.filename            = "$ROOTTESTDATADATAPATH/gamma_5_gev_normal/merit.root";
+mcRootWriterAlg.mcRootFile       = "$ROOTTESTDATADATAPATH/vertical_surface_muons/mc.root";
+relationRootWriterAlg.rootFile   = "$ROOTTESTDATADATAPATH/vertical_surface_muons/relations.root";
+digiRootWriterAlg.digiRootFile   = "$ROOTTESTDATADATAPATH/vertical_surface_muons/digi.root";
+reconRootWriterAlg.reconRootFile = "$ROOTTESTDATADATAPATH/vertical_surface_muons/recon.root";
+RootTupleSvc.filename            = "$ROOTTESTDATADATAPATH/vertical_surface_muons/merit.root";
 RootTupleSvc.rejectIfBad         = false;
 
 
