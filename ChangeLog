@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: lsrea  Tue Jan 12 16:19:35 PST 2010
+rootTestData/src/gamma_5_gev_normal
+
+Added Files:
+	.cvsignore common.txt job.py jobOptions.txt source_library.xml 
+Log Message:
+job options files moved to new directories under src/
+root files remade with v18r0p0
+
+    *
+------------------------------------------------------------
 User: lsrea  Tue Jan 12 16:19:34 PST 2010
 rootTestData/src/default
 
