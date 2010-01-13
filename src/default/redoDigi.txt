@@ -1,14 +1,9 @@
 //##############################################################
 //
-// Job options file for Gleam job to run vertical_surface_muons source for 10 events and store in rootTestData
+// Job options file for Gleam job to run muon_pencil_angle source for 5 events and store in rootTestData
 //    This version starts from the MC output
 
-//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/data/vertical_surface_muons/redoDigi.txt,v 1.3 2008/07/21 15:17:39 glastrm Exp $
-
-// I don't think this works... 
-// the relations file contains information which is generated when the mc file is made
-// This is why we end up with files that are out of synch.
-// LSR 03-Oct-2008
+//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/data/default/redoDigi.txt,v 1.3 2008/07/21 15:17:39 glastrm Exp $
 
 // start with the basic program defined in Gleam
 #include "$GLEAMROOT/src/basicOptions.txt"
@@ -23,24 +18,24 @@ AnalysisNtupleAlg.tupleName = "MeritTuple";
 //MeritAlg.PointingTreeName="Exposure";
 
 TriggerAlg.mask = 0; // accept events even if they don't trigger
-TriggerAlg.applyPrescales=false; 
+TriggerAlg.applyPrescales=false;
 
 Generator.Members = {"mcRootReaderAlg"};
-mcRootReaderAlg.mcRootFile = "$ROOTTESTDATADATAPATH/vertical_surface_muons/mc.root";
+mcRootReaderAlg.mcRootFile = "$ROOTTESTDATADATAPATH/default/mc.root";
 
 Output.Members = {"digiRootWriterAlg", "reconRootWriterAlg" };
 
-digiRootWriterAlg.digiRootFile   = "$ROOTTESTDATADATAPATH/vertical_surface_muons/digi.root";
-reconRootWriterAlg.reconRootFile = "$ROOTTESTDATADATAPATH/vertical_surface_muons/recon.root";
-RootTupleSvc.filename            = "$ROOTTESTDATADATAPATH/vertical_surface_muons/merit.root";
+digiRootWriterAlg.digiRootFile   = "$ROOTTESTDATADATAPATH/default/digi.root";
+reconRootWriterAlg.reconRootFile = "$ROOTTESTDATADATAPATH/default/recon.root";
+RootTupleSvc.filename            = "$ROOTTESTDATADATAPATH/default/merit.root";
 
 
 // Set output level threshold (2=DEBUG, 3=INFO, 4=WARNING, 5=ERROR, 6=FATAL )
 CalClustersAlg.OutputLevel=4; // too much info
 
 // Number of events to process
-MeritAlg.generated = 10; // for estimation of Aeff
-ApplicationMgr.EvtMax = 10;
+MeritAlg.generated = 5; // for estimation of Aeff
+ApplicationMgr.EvtMax = 5;
 
 MessageSvc.OutputLevel      =3;
 

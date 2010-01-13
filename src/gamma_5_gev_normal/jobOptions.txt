@@ -2,7 +2,7 @@
 //
 // Job options file for Gleam job to run surface muons source for 10 events and store in rootTestData
 
-//$Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/rootTestData/data/vertical_surface_muons/jobOptions.txt,v 1.6 2007/11/12 20:43:04 heather Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/data/gamma_5_gev_normal/jobOptions.txt,v 1.5 2008/10/04 14:35:24 lsrea Exp $
 
 // start with the basic program defined in Gleam
 #include "$GLEAMROOT/src/basicOptions.txt"
@@ -11,7 +11,8 @@
 //#include "$GLEAMROOT/src/guiOptions.txt"
 //#include "$GLEAMROOT/src/fredOptions.txt"
 
-FluxAlg.source_name="vertical_surface_muons";
+FluxSvc.source_lib += { "$(ROOTTESTDATAROOT)/src/gamma_5_gev_normal/source_library.xml" } ;
+FluxAlg.source_name = "gamma_5_gev_normal" ;
 
 //// set root output from merit with following
 AnalysisNtupleAlg.tupleName = "MeritTuple";
@@ -19,13 +20,13 @@ AnalysisNtupleAlg.tupleName = "MeritTuple";
 //MeritAlg.PointingTreeName="Exposure";
 
 TriggerAlg.mask = 0; // accept events even if they don't trigger
-TriggerAlg.applyPrescales=false; 
+TriggerAlg.applyPrescales=false;
 
-mcRootWriterAlg.mcRootFile       = "$ROOTTESTDATADATAPATH/vertical_surface_muons/mc.root";
-relationRootWriterAlg.rootFile   = "$ROOTTESTDATADATAPATH/vertical_surface_muons/relations.root";
-digiRootWriterAlg.digiRootFile   = "$ROOTTESTDATADATAPATH/vertical_surface_muons/digi.root";
-reconRootWriterAlg.reconRootFile = "$ROOTTESTDATADATAPATH/vertical_surface_muons/recon.root";
-RootTupleSvc.filename            = "$ROOTTESTDATADATAPATH/vertical_surface_muons/merit.root";
+mcRootWriterAlg.mcRootFile       = "$ROOTTESTDATADATAPATH/gamma_5_gev_normal/mc.root";
+relationRootWriterAlg.rootFile   = "$ROOTTESTDATADATAPATH/gamma_5_gev_normal/relations.root";
+digiRootWriterAlg.digiRootFile   = "$ROOTTESTDATADATAPATH/gamma_5_gev_normal/digi.root";
+reconRootWriterAlg.reconRootFile = "$ROOTTESTDATADATAPATH/gamma_5_gev_normal/recon.root";
+RootTupleSvc.filename            = "$ROOTTESTDATADATAPATH/gamma_5_gev_normal/merit.root";
 RootTupleSvc.rejectIfBad         = false;
 
 
