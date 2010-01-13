@@ -1,4 +1,18 @@
 ------------------------------------------------------------
+User: lsrea  Tue Jan 12 16:19:34 PST 2010
+rootTestData/data/vertical_surface_muons
+
+Modified Files:
+	digi.root mc.root merit.root recon.root relations.root 
+Removed Files:
+	.cvsignore jobOptions.txt readme.txt redoDigi.txt 
+	redoRecon.txt 
+Log Message:
+job options files moved to new directories under src/
+root files remade with v18r0p0
+
+    *
+------------------------------------------------------------
 User: lsrea  Tue Jan 12 16:19:33 PST 2010
 rootTestData/data/gamma_5_gev_normal
 
