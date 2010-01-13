@@ -1,5 +1,18 @@
 ------------------------------------------------------------
 User: lsrea  Tue Jan 12 16:19:33 PST 2010
+rootTestData/data/gamma_5_gev_normal
+
+Modified Files:
+	digi.root mc.root merit.root recon.root relations.root 
+Removed Files:
+	.cvsignore common.txt job.py jobOptions.txt source_library.xml 
+Log Message:
+job options files moved to new directories under src/
+root files remade with v18r0p0
+
+    *
+------------------------------------------------------------
+User: lsrea  Tue Jan 12 16:19:33 PST 2010
 rootTestData/data/default
 
 Modified Files:
