@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: jrb  Fri Jun 11 18:42:30 PDT 2010
+rootTestData/src/vertical_surface_muons
+
+Modified Files:
+	jobOptions.txt redoDigi.txt redoRecon.txt 
+Log Message:
+in jo files replace occurrences of PKGROOT/src with PKGJOBOPTIONSPATH
+    *
+------------------------------------------------------------
+User: jrb  Fri Jun 11 18:42:30 PDT 2010
 rootTestData/src/default
 
 Modified Files:
