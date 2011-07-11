@@ -2,9 +2,9 @@
 # @file SConscript
 # @brief build info
 #
-# $Id: SConscript,v 1.6 2010/06/11 00:48:34 jrb Exp $
+# $Id: SConscript,v 1.7 2010/06/13 07:04:09 jrb Exp $
 # Authors: Heather Kelly <heather@milkyway.gsfc.nasa.gov>,David Chamont <chamont@poly.in2p3.fr>
-# Version: rootTestData-04-03-01
+# Version: rootTestData-04-04-00
 Import('baseEnv')
 Import('listFiles')
 progEnv = baseEnv.Clone()
