@@ -2,7 +2,7 @@
 //
 // Job options file for Gleam job to run muon_pencil_angle source for 5 events and store in rootTestData
 
-//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/src/default/jobOptions.txt,v 1.1 2010/01/13 00:19:34 lsrea Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/src/default/jobOptions.txt,v 1.2 2010/06/12 01:42:29 jrb Exp $
 
 // start with the basic program defined in Gleam
 #include "$GLEAMJOBOPTIONSPATH/basicOptions.txt"
@@ -35,7 +35,7 @@ CalClustersAlg.OutputLevel=4; // too much info
 
 // Number of events to process
 MeritAlg.generated = 5; // for estimation of Aeff
-ApplicationMgr.EvtMax = 5;
+ApplicationMgr.EvtMax = 10;
 
 MessageSvc.OutputLevel      =3;
 
