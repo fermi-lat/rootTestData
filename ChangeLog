@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: lsrea  Sun Jul 10 18:28:21 PDT 2011
+rootTestData/data/gamma_5_gev_normal
+
+Modified Files:
+	digi.root mc.root merit.root recon.root relations.root 
+Log Message:
+New version of the files for v19 (probably needed this for v18 as well)
+
+    *
+------------------------------------------------------------
+User: lsrea  Sun Jul 10 18:28:21 PDT 2011
 rootTestData/data/default
 
 Modified Files:
