@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Mon Jul 25 18:46:06 PDT 2011
+rootTestData/data/gamma_5_gev_normal
+
+Removed Files:
+      Tag: GlastReleasev17r38p1
+	common.txt job.py jobOptions.txt source_library.xml 
+Log Message:
+merging in SCons updates for P7
+    *
+------------------------------------------------------------
 User: heather  Mon Jul 25 18:46:05 PDT 2011
 rootTestData/data/default
 
