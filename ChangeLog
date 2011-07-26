@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Mon Jul 25 18:46:05 PDT 2011
+rootTestData
+
+Modified Files:
+      Tag: GlastReleasev17r38p1
+	SConscript 
+Log Message:
+merging in SCons updates for P7
+    *
+------------------------------------------------------------
 TAG
 Tag name: rootTestData-04-04-00, operation: add
 Package: rootTestData
