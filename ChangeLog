@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: heather  Mon Jul 25 18:46:06 PDT 2011
+rootTestData/doc
+
+Modified Files:
+      Tag: GlastReleasev17r38p1
+	release.notes 
+Log Message:
+merging in SCons updates for P7
+    *
+------------------------------------------------------------
+User: heather  Mon Jul 25 18:46:06 PDT 2011
 rootTestData/data/vertical_surface_muons
 
 Removed Files:
