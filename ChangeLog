@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: heather  Mon Jul 25 18:46:05 PDT 2011
+rootTestData/cmt
+
+Modified Files:
+      Tag: GlastReleasev17r38p1
+	requirements 
+Log Message:
+merging in SCons updates for P7
+    *
+------------------------------------------------------------
+User: heather  Mon Jul 25 18:46:05 PDT 2011
 rootTestData
 
 Modified Files:
