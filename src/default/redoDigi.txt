@@ -3,13 +3,13 @@
 // Job options file for Gleam job to run muon_pencil_angle source for 5 events and store in rootTestData
 //    This version starts from the MC output
 
-//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/src/default/redoDigi.txt,v 1.1 2010/01/13 00:19:34 lsrea Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/data/default/Attic/redoDigi.txt,v 1.3 2008/07/21 15:17:39 glastrm Exp $
 
 // start with the basic program defined in Gleam
-#include "$GLEAMJOBOPTIONSPATH/basicOptions.txt"
+#include "$GLEAMROOT/src/basicOptions.txt"
 
 // following, if uncommented, will run the GUI
-//#include "$GLEAMJOBOPTIONSPATH/guiOptions.txt"
+//#include "$GLEAMROOT/src/guiOptions.txt"
 
 //FluxAlg.source_name="muon_pencil_angle";
 
