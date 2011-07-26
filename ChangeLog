@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: heather  Mon Jul 25 18:46:07 PDT 2011
+rootTestData/src/gamma_5_gev_normal
+
+Added Files:
+      Tag: GlastReleasev17r38p1
+	common.txt jobOptions.txt 
+Log Message:
+merging in SCons updates for P7
+    *
+------------------------------------------------------------
+User: heather  Mon Jul 25 18:46:07 PDT 2011
 rootTestData/src/default
 
 Added Files:
