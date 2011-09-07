@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-17-35-24-gr04, operation: add
+Package: rootTestData
+User: heather  Wed Sep  7 14:24:04 2011
+Files:
+  rootTestData/.cvsignore  1.2
+  rootTestData/ChangeLog  1.169
+  rootTestData/SConscript  1.4.2.1
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-19-03-07, operation: add
 Package: rootTestData
 User: heather  Wed Sep  7 10:29:33 2011
