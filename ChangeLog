@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: lsrea  Sat Feb  4 08:30:20 PST 2012
+rootTestData/data/default
+
+Modified Files:
+      Tag: GlastReleasev19r4p1
+	digi.root mc.root merit.root recon.root relations.root 
+Log Message:
+/ new files for new release
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-gr21, operation: add
 Package: rootTestData
