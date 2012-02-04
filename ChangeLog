@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: lsrea  Sat Feb  4 08:30:21 PST 2012
+rootTestData/data/vertical_surface_muons
+
+Modified Files:
+      Tag: GlastReleasev19r4p1
+	digi.root mc.root merit.root recon.root relations.root 
+Log Message:
+/ new files for new release
+
+    *
+------------------------------------------------------------
+User: lsrea  Sat Feb  4 08:30:21 PST 2012
 rootTestData/data/gamma_5_gev_normal
 
 Modified Files:
