@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Apr 24 21:52:33 PDT 2012
+rootTestData/data/vertical_surface_muons
+
+Modified Files:
+	digi.root mc.root merit.root recon.root relations.root 
+Log Message:
+picking up Leon's updated root test files
+    *
+------------------------------------------------------------
 User: heather  Tue Apr 24 21:52:32 PDT 2012
 rootTestData/data/gamma_5_gev_normal
 
