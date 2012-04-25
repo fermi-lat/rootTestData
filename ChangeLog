@@ -1,4 +1,48 @@
 ------------------------------------------------------------
+TAG
+Tag name: rootTestData-04-05-00, operation: add
+Package: rootTestData
+User: heather  Tue Apr 24 21:52:57 2012
+Files:
+  rootTestData/.cvsignore  1.2
+  rootTestData/ChangeLog  1.290
+  rootTestData/SConscript  1.9
+  rootTestData/cmt/.cvsignore  1.1.1.1
+  rootTestData/cmt/requirements  1.29
+  rootTestData/data/default/mc.root  1.22
+  rootTestData/data/default/relations.root  1.9
+  rootTestData/data/default/digi.root  1.23
+  rootTestData/data/default/merit.root  1.20
+  rootTestData/data/default/recon.root  1.24
+  rootTestData/data/gamma_5_gev_normal/mc.root  1.4
+  rootTestData/data/gamma_5_gev_normal/relations.root  1.4
+  rootTestData/data/gamma_5_gev_normal/digi.root  1.15
+  rootTestData/data/gamma_5_gev_normal/merit.root  1.4
+  rootTestData/data/gamma_5_gev_normal/recon.root  1.16
+  rootTestData/data/vertical_surface_muons/mc.root  1.18
+  rootTestData/data/vertical_surface_muons/relations.root  1.8
+  rootTestData/data/vertical_surface_muons/digi.root  1.19
+  rootTestData/data/vertical_surface_muons/merit.root  1.20
+  rootTestData/data/vertical_surface_muons/recon.root  1.20
+  rootTestData/doc/release.notes  1.38
+  rootTestData/src/mainpage.h  1.1.1.1
+  rootTestData/src/default/redoRecon.txt  1.2
+  rootTestData/src/default/.cvsignore  1.1
+  rootTestData/src/default/redoDigi.txt  1.2
+  rootTestData/src/default/jobOptions.txt  1.3
+  rootTestData/src/gamma_5_gev_normal/source_library.xml  1.1
+  rootTestData/src/gamma_5_gev_normal/.cvsignore  1.1
+  rootTestData/src/gamma_5_gev_normal/job.py  1.1
+  rootTestData/src/gamma_5_gev_normal/jobOptions.txt  1.1
+  rootTestData/src/gamma_5_gev_normal/common.txt  1.1
+  rootTestData/src/vertical_surface_muons/redoRecon.txt  1.2
+  rootTestData/src/vertical_surface_muons/.cvsignore  1.1
+  rootTestData/src/vertical_surface_muons/redoDigi.txt  1.2
+  rootTestData/src/vertical_surface_muons/jobOptions.txt  1.2
+  rootTestData/src/vertical_surface_muons/readme.txt  1.1
+
+    *
+------------------------------------------------------------
 User: heather  Tue Apr 24 21:52:33 PDT 2012
 rootTestData/doc
 
