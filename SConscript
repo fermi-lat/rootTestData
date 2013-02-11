@@ -2,9 +2,9 @@
 # @file SConscript
 # @brief build info
 #
-# $Id: SConscript,v 1.8 2011/07/11 01:30:49 lsrea Exp $
-# Authors: Heather Kelly <heather@milkyway.gsfc.nasa.gov>,David Chamont <chamont@poly.in2p3.fr>
-# Version: rootTestData-04-05-00
+# $Id: SConscript,v 1.9 2012/04/25 04:52:30 heather Exp $
+# Authors: Heather Kelly <heather@slac.stanford.edu>,Leon Rochester <lsrea@slac.stanford.edu>
+# Version: rootTestData-04-06-00
 Import('baseEnv')
 Import('listFiles')
 progEnv = baseEnv.Clone()
@@ -18,7 +18,8 @@ jofiles.append('src/vertical_surface_muons/jobOptions.txt')
 progEnv.Tool('registerTargets', 
              package = 'rootTestData',
              data = listFiles(['data/*'],recursive=True),
-             jo= jofiles)
+             jo= jofiles,
+             xml = listFiles(['xml/*'], recursive=True)
 	
 
 
