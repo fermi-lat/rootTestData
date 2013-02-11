@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Feb 11 07:55:49 PST 2013
+rootTestData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+patch SConscript and add xml dir
+    *
+------------------------------------------------------------
 User: heather  Mon Feb 11 07:55:48 PST 2013
 rootTestData/cmt
 
