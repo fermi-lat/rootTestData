@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sun Feb 10 22:42:04 PST 2013
+rootTestData/data/gamma_5_gev_normal
+
+Modified Files:
+	digi.root mc.root merit.root recon.root relations.root 
+Log Message:
+try updating the test files
+    *
+------------------------------------------------------------
 User: heather  Sun Feb 10 22:42:03 PST 2013
 rootTestData/data/default
 
