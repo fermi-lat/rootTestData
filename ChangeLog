@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sun Feb 10 22:42:01 PST 2013
+rootTestData
+
+Modified Files:
+	SConscript 
+Log Message:
+try updating the test files
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-20-08-06, operation: add
 Package: rootTestData
