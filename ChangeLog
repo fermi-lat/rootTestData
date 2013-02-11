@@ -1,4 +1,48 @@
 ------------------------------------------------------------
+TAG
+Tag name: rootTestData-04-06-00, operation: add
+Package: rootTestData
+User: heather  Sun Feb 10 22:46:22 2013
+Files:
+  rootTestData/.cvsignore  1.2
+  rootTestData/ChangeLog  1.347
+  rootTestData/SConscript  1.10
+  rootTestData/cmt/.cvsignore  1.1.1.1
+  rootTestData/cmt/requirements  1.30
+  rootTestData/data/default/mc.root  1.23
+  rootTestData/data/default/relations.root  1.10
+  rootTestData/data/default/digi.root  1.24
+  rootTestData/data/default/merit.root  1.21
+  rootTestData/data/default/recon.root  1.25
+  rootTestData/data/gamma_5_gev_normal/mc.root  1.5
+  rootTestData/data/gamma_5_gev_normal/relations.root  1.5
+  rootTestData/data/gamma_5_gev_normal/digi.root  1.16
+  rootTestData/data/gamma_5_gev_normal/merit.root  1.5
+  rootTestData/data/gamma_5_gev_normal/recon.root  1.17
+  rootTestData/data/vertical_surface_muons/mc.root  1.19
+  rootTestData/data/vertical_surface_muons/relations.root  1.9
+  rootTestData/data/vertical_surface_muons/digi.root  1.20
+  rootTestData/data/vertical_surface_muons/merit.root  1.21
+  rootTestData/data/vertical_surface_muons/recon.root  1.21
+  rootTestData/doc/release.notes  1.39
+  rootTestData/src/mainpage.h  1.1.1.1
+  rootTestData/src/default/redoRecon.txt  1.2
+  rootTestData/src/default/.cvsignore  1.1
+  rootTestData/src/default/redoDigi.txt  1.2
+  rootTestData/src/default/jobOptions.txt  1.4
+  rootTestData/src/gamma_5_gev_normal/source_library.xml  1.1
+  rootTestData/src/gamma_5_gev_normal/.cvsignore  1.1
+  rootTestData/src/gamma_5_gev_normal/job.py  1.1
+  rootTestData/src/gamma_5_gev_normal/jobOptions.txt  1.2
+  rootTestData/src/gamma_5_gev_normal/common.txt  1.1
+  rootTestData/src/vertical_surface_muons/redoRecon.txt  1.2
+  rootTestData/src/vertical_surface_muons/.cvsignore  1.1
+  rootTestData/src/vertical_surface_muons/redoDigi.txt  1.2
+  rootTestData/src/vertical_surface_muons/jobOptions.txt  1.2
+  rootTestData/src/vertical_surface_muons/readme.txt  1.1
+
+    *
+------------------------------------------------------------
 User: heather  Sun Feb 10 22:42:06 PST 2013
 rootTestData/src/gamma_5_gev_normal
 
