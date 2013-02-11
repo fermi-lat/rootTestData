@@ -1,22 +1,4 @@
 ------------------------------------------------------------
-User: heather  Mon Feb 11 07:55:48 PST 2013
-rootTestData/cmt
-
-Modified Files:
-	requirements 
-Log Message:
-patch SConscript and add xml dir
-    *
-------------------------------------------------------------
-User: heather  Mon Feb 11 07:55:48 PST 2013
-rootTestData
-
-Modified Files:
-	SConscript 
-Log Message:
-patch SConscript and add xml dir
-    *
-------------------------------------------------------------
 User: heather  Mon Feb 11 07:54:32 PST 2013
 rootTestData/xml
 
