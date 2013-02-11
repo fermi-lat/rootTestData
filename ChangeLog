@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Mon Feb 11 07:55:49 PST 2013
+rootTestData/xml
+
+Added Files:
+	source_library.xml 
+Log Message:
+patch SConscript and add xml dir
+    *
+------------------------------------------------------------
+User: heather  Mon Feb 11 07:55:49 PST 2013
 rootTestData/doc
 
 Modified Files:
