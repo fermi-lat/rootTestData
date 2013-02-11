@@ -2,16 +2,16 @@
 //
 // Job options file for Gleam job to run surface muons source for 10 events and store in rootTestData
 
-//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/data/gamma_5_gev_normal/jobOptions.txt,v 1.5 2008/10/04 14:35:24 lsrea Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/src/gamma_5_gev_normal/jobOptions.txt,v 1.1 2010/01/13 00:19:35 lsrea Exp $
 
 // start with the basic program defined in Gleam
-#include "$GLEAMROOT/src/basicOptions.txt"
+#include "$GLEAMJOBOPTIONSPATH/basicOptions.txt"
 
 // following, if uncommented, will run the GUI
-//#include "$GLEAMROOT/src/guiOptions.txt"
-//#include "$GLEAMROOT/src/fredOptions.txt"
+//#include "$GLEAMJOBOPTIONSPATH/guiOptions.txt"
+//#include "$GLEAMJOBOPTIONSPATH/fredOptions.txt"
 
-FluxSvc.source_lib += { "$(ROOTTESTDATAROOT)/src/gamma_5_gev_normal/source_library.xml" } ;
+FluxSvc.source_lib += { "$ROOTTESTXMLPATH/source_library.xml" } ;
 FluxAlg.source_name = "gamma_5_gev_normal" ;
 
 //// set root output from merit with following
