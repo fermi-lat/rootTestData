@@ -2,9 +2,9 @@
 # @file SConscript
 # @brief build info
 #
-# $Id: SConscript,v 1.10 2013/02/11 06:42:01 heather Exp $
+# $Id: SConscript,v 1.11 2013/02/11 15:55:48 heather Exp $
 # Authors: Heather Kelly <heather@slac.stanford.edu>,Leon Rochester <lsrea@slac.stanford.edu>
-# Version: rootTestData-04-06-01
+# Version: rootTestData-04-06-02
 Import('baseEnv')
 Import('listFiles')
 progEnv = baseEnv.Clone()
