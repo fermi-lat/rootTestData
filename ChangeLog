@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Tue Apr 23 21:56:34 PDT 2013
+rootTestData/data/default
+
+Modified Files:
+	digi.root mc.root merit.root recon.root relations.root 
+Log Message:
+corresponds to GR=20-08-12
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: rootTestData-04-06-02, operation: add
 Package: rootTestData
