@@ -2,7 +2,7 @@
 //
 // Job options file for Gleam job to run surface muons source for 10 events and store in rootTestData
 
-//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/src/vertical_surface_muons/jobOptions.txt,v 1.1 2010/01/13 00:19:35 lsrea Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/rootTestData/src/vertical_surface_muons/jobOptions.txt,v 1.2 2010/06/12 01:42:30 jrb Exp $
 
 // start with the basic program defined in Gleam
 #include "$GLEAMJOBOPTIONSPATH/basicOptions.txt"
@@ -13,10 +13,8 @@
 
 FluxAlg.source_name="vertical_surface_muons";
 
-//// set root output from merit with following
+//// set root output to ntuple
 AnalysisNtupleAlg.tupleName = "MeritTuple";
-//DC: obsolete ?
-//MeritAlg.PointingTreeName="Exposure";
 
 TriggerAlg.mask = 0; // accept events even if they don't trigger
 TriggerAlg.applyPrescales=false; 
@@ -33,7 +31,6 @@ RootTupleSvc.rejectIfBad         = false;
 CalClustersAlg.OutputLevel=4; // too much info
 
 // Number of events to process
-MeritAlg.generated = 10; // for estimation of Aeff
 ApplicationMgr.EvtMax = 10;
 
 MessageSvc.OutputLevel      =3;
