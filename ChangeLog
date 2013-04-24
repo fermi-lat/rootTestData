@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Tue Apr 23 21:58:14 PDT 2013
+rootTestData/data/vertical_surface_muons
+
+Modified Files:
+	digi.root mc.root merit.root recon.root relations.root 
+Log Message:
+corresponds to GR=20-08-12
+
+    *
+------------------------------------------------------------
 User: lsrea  Tue Apr 23 21:57:47 PDT 2013
 rootTestData/data/gamma_5_gev_normal
 
