@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Sat May 18 18:41:13 PDT 2013
+GlastRelease-scons/rootTestData/data/default
+
+Modified Files:
+	digi.root mc.root merit.root recon.root relations.root 
+Log Message:
+New files for latest GR
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-20-08-13, operation: add
 Package: rootTestData
