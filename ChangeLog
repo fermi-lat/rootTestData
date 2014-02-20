@@ -1,5 +1,52 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-20-09-07, operation: add
+Package: rootTestData
+User: heather  Thu Feb 20 00:31:08 2014
+Files:
+  rootTestData/.cvsignore  1.2
+  rootTestData/ChangeLog  1.412
+  rootTestData/SConscript  1.15
+  rootTestData/cmt/.cvsignore  1.1.1.1
+  rootTestData/cmt/requirements  1.35
+  rootTestData/data/default/mc.root  1.27
+  rootTestData/data/default/relations.root  1.14
+  rootTestData/data/default/digi.root  1.28
+  rootTestData/data/default/merit.root  1.25
+  rootTestData/data/default/recon.root  1.29
+  rootTestData/data/gamma_5_gev_normal/mc.root  1.9
+  rootTestData/data/gamma_5_gev_normal/relations.root  1.9
+  rootTestData/data/gamma_5_gev_normal/digi.root  1.20
+  rootTestData/data/gamma_5_gev_normal/merit.root  1.9
+  rootTestData/data/gamma_5_gev_normal/recon.root  1.21
+  rootTestData/data/vertical_surface_muons/mc.root  1.23
+  rootTestData/data/vertical_surface_muons/relations.root  1.13
+  rootTestData/data/vertical_surface_muons/digi.root  1.24
+  rootTestData/data/vertical_surface_muons/merit.root  1.25
+  rootTestData/data/vertical_surface_muons/recon.root  1.25
+  rootTestData/doc/release.notes  1.45
+  rootTestData/src/mainpage.h  1.1.1.1
+  rootTestData/src/cal/jobOptions.txt  1.1
+  rootTestData/src/default/redoRecon.txt  1.2
+  rootTestData/src/default/.cvsignore  1.1
+  rootTestData/src/default/redoDigi.txt  1.2
+  rootTestData/src/default/jobOptions.txt  1.5
+  rootTestData/src/gamma_5_gev_normal/source_library.xml  1.1
+  rootTestData/src/gamma_5_gev_normal/.cvsignore  1.1
+  rootTestData/src/gamma_5_gev_normal/job.py  1.1
+  rootTestData/src/gamma_5_gev_normal/jobOptions.txt  1.3
+  rootTestData/src/gamma_5_gev_normal/common.txt  1.1
+  rootTestData/src/vertical_surface_muons/redoRecon.txt  1.2
+  rootTestData/src/vertical_surface_muons/.cvsignore  1.1
+  rootTestData/src/vertical_surface_muons/redoDigi.txt  1.2
+  rootTestData/src/vertical_surface_muons/jobOptions.txt  1.3
+  rootTestData/src/vertical_surface_muons/readme.txt  1.1
+  rootTestData/xml/source_library.xml  1.1
+  rootTestData/xml/cal_source_library.xml  1.1
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-20-09-06, operation: add
 Package: rootTestData
 User: heather  Thu Dec 19 00:14:53 2013
